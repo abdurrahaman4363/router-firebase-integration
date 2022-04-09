@@ -1,0 +1,14 @@
+nav a{
+    text-decoration: none;
+    margin-right: 20px;
+    color: black;
+
+}
+nav a:hover{
+   color: goldenrod;
+}
+nav{
+    background-color: aqua;
+    padding: 10px;
+    margin: 10px;
+}
